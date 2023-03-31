@@ -1,2 +1,2 @@
-# HotspotExtraction
-A weibo hotspot automatic extraction software
+# HotspotDetection
+A weibo hotspot automatic detection software
